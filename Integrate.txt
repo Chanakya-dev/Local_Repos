@@ -1,2 +1,2 @@
-Integrated Search Functionality
+Updated Search Functionality
 Integrated Backend Functionality
